@@ -2,7 +2,9 @@
 Is your repository untidy? Then you've come to the right place!
 The GitComparer compares branches from your selected repository in order to find deletable/duplicate branches.
 
-You can compare a Main Branch against a Reference Branch, a Main Branch against all other branches in the selected repository or to simply check all of the selected repository's branches. The comparison is then performed with a selection of comparers.
+You can choose to compare a Main Branch against a Reference Branch, a Main Branch against all other branches in the selected repository or a complete comparison with all of the selected repository's branches. The comparison is then performed with a selection of comparers.
+
+To learn more about the GitComparer - chech out the project wiki at https://github.com/fridamat/GitComparer/wiki.
 
 # Available comparers
 Let's say we want to compare a Main Branch against a Reference Branch.
@@ -28,4 +30,3 @@ To run the Console Application - simply fork and build the project and run the /
 
 # Author
 Alfrida Mattisson, fridamat@kth.se
-
